@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/entities/User.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/gui/ActivateForm.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/entities/Stay.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/entities/Booking.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/pidevv/MyApplication.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/gui/SignUpForm.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/gui/ModifierBooking.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/services/BookingService.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/services/UserService.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/gui/ListUser.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/gui/ModifierUser.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/gui/ListStay.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/gui/ModifierStay.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/gui/ProfileForm.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/gui/AddBooking.java</file>
+            <file>jar:file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/lib/CodenameOne_SRC.zip!/com/codename1/ui/TextArea.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/gui/AddStay.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/services/StayService.java</file>
+            <file>file:/C:/Users/raoun/Desktop/ProjetMo/Meriem-main/src/com/esprit/gui/ListBooking.java</file>
+        </group>
+    </open-files>
+</project-private>
