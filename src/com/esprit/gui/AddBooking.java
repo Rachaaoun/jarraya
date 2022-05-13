@@ -22,6 +22,7 @@ import com.codename1.ui.Toolbar;
 import com.codename1.ui.layouts.BoxLayout;
 import com.codename1.ui.util.Resources;
 import com.esprit.entities.Booking;
+import com.esprit.entities.Stay;
 import com.esprit.services.BookingService;
 import com.esprit.services.UserService;
 
@@ -40,7 +41,7 @@ import javax.mail.internet.MimeMessage;
 public class AddBooking extends BaseForm {
     
     Form current;
-    public AddBooking(Resources res ) {
+    public AddBooking(Resources res ,Stay s) {
          super("Newsfeed",BoxLayout.y()); //herigate men Newsfeed w l formulaire vertical
     
         Toolbar tb = new Toolbar(true);
@@ -80,7 +81,7 @@ public class AddBooking extends BaseForm {
           e.setBookingDate(bookingdate.getText());
           e.setEndDate(enddate.getText());
           e.setFirstDate(firstdate.getText());
-          e.setStayId(1);
+          e.setStayId(s.getId());
           e.setUserId(1);
       
        

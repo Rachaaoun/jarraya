@@ -175,9 +175,9 @@ public class ListBooking extends BaseForm{
         lajouter.requestFocus();
          lajouter.addPointerPressedListener(l -> {
             System.out.println("hello add");
-           new AddBooking(res).show();
+         //  new AddBooking(res).show();
         });
-        add(lajouter);
+       // add(lajouter);
     }
     
     
