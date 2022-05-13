@@ -309,14 +309,16 @@ public class ListStay extends BaseForm{
           new ModifierStay(res,e).show();
         });
         
-          //Update icon 
-        Label lbook = new Label(" ");
-        lbook.setUIID("NewsTopLine");
-          lModifier.addPointerPressedListener(l -> {
-            System.out.println("hello book");
+         
+     
+          Button lbook = new Button(" Book Now");
+        
+        lbook.requestFocus();
+        
+         lbook.addPointerPressedListener(l -> {
+            System.out.println("hello add");
           new AddBooking(res,e).show();
         });
-     
          
         cnt.add(BorderLayout.CENTER,BoxLayout.encloseY(
                 
@@ -326,10 +328,9 @@ public class ListStay extends BaseForm{
                
                // BoxLayout.encloseX(adresseTxt) ,
                // BoxLayout.encloseX(typeTxt) ,
-                BoxLayout.encloseX(lModifier,lSupprimer),
-                  BoxLayout.encloseX(lbook)
+                BoxLayout.encloseX(lModifier,lSupprimer,lbook)
         ));
- 
+// add(lbook);
         add(cnt);
     }
     
